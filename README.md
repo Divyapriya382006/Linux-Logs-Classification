@@ -1,4 +1,3 @@
-```markdown
 
 # Linux Log Template Classification using Deep Learning
 
