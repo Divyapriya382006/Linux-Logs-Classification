@@ -1,6 +1,5 @@
-Here is the complete, raw Markdown block contained as a single, copy-pasteable file for your `README.md`:
-
 ```markdown
+
 # Linux Log Template Classification using Deep Learning
 
 This repository contains an end-to-end Machine Learning and Deep Learning pipeline designed to classify raw Linux log messages into standard, structured system event templates (`EventId`). The project combines text vectorization, structural feature handling, and a multi-layer Sequential Neural Network built using TensorFlow and Keras.
